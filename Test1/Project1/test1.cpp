@@ -11,7 +11,7 @@ int main()
 	delete_space(buf);
 	puts("After delete space:\n");
 	puts("buf");
-}
+}     
 int delete_space(char *p)
 {
    
