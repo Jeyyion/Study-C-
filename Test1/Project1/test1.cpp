@@ -10,7 +10,7 @@ int main()
 	gets_s(buf);
 	delete_space(buf);
 	puts("After delete space:\n");
-	puts("buf");
+	puts("buf");    
 }     
 int delete_space(char *p)
 {
